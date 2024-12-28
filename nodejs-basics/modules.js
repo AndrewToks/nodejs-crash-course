@@ -18,6 +18,4 @@ console.log(os.platform(),os.homedir());
 
 //file system
 
-const fs = require('fs')
-console.log(fs);
 

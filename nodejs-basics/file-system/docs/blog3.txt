@@ -1,0 +1,4 @@
+A Frontend developer with 2 years of experience creating high-performance web applications
+using Next.js, React, and TailwindCSS. I specialize in crafting seamless user experiences with
+reusable code, SEO optimization, and responsive designs. I am committed to delivering scalable,
+intuitive solutions aligned with user and business goals.
